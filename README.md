@@ -12,7 +12,7 @@
 - 实现了完整的数据预处理流水线（缺失值填补、Target Encoding、标准化）。
 - 在 5 折交叉验证中取得了 **0.7351** 的平均 AUC 分数。
 
-## 🛠️ 实验环境与依赖 (Requirements)
+## 实验环境与依赖 (Requirements)
 
 本项目基于 Windows 11 + Anaconda 开发，主要依赖库版本如下：
 

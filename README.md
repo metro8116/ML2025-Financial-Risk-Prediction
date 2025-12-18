@@ -26,6 +26,7 @@
 安装依赖：
 ```bash
 pip install pandas numpy xgboost scikit-learn category_encoders matplotlib
+```
 
 ## 算法原理与流程
 
